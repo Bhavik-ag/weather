@@ -1,0 +1,2322 @@
+[
+    {
+        "label": "Delhi NCR : Sarita Vihar",
+        "value": "ZWL005764"
+    },
+    {
+        "label": "Delhi NCR : Faridabad Sector 41-50",
+        "value": "ZWL008752"
+    },
+    {
+        "label": "Delhi NCR : New Friends Colony",
+        "value": "ZWL005996"
+    },
+    {
+        "label": "Delhi NCR : Sector 26 (Noida)",
+        "value": "ZWL005243"
+    },
+    {
+        "label": "Delhi NCR : New Industrial Town",
+        "value": "ZWL009032"
+    },
+    {
+        "label": "Delhi NCR : Tilak Nagar",
+        "value": "ZWL005428"
+    },
+    {
+        "label": "Delhi NCR : Sector 10, Gurgaon",
+        "value": "ZWL001073"
+    },
+    {
+        "label": "Delhi NCR : Ashok Vihar, Delhi",
+        "value": "ZWL001319"
+    },
+    {
+        "label": "Delhi NCR : Kalkaji",
+        "value": "ZWL004800"
+    },
+    {
+        "label": "Delhi NCR : Sector 53",
+        "value": "ZWL003118"
+    },
+    {
+        "label": "Delhi NCR : Sector 49",
+        "value": "ZWL002091"
+    },
+    {
+        "label": "Delhi NCR : Vasundhara",
+        "value": "ZWL002662"
+    },
+    {
+        "label": "Delhi NCR : Rajinder Nagar",
+        "value": "ZWL001404"
+    },
+    {
+        "label": "Delhi NCR : Safdarjung Enclave",
+        "value": "ZWL008963"
+    },
+    {
+        "label": "Delhi NCR : Connaught Place",
+        "value": "ZWL006538"
+    },
+    {
+        "label": "Delhi NCR : Sector 66",
+        "value": "ZWL003075"
+    },
+    {
+        "label": "Delhi NCR : Sector 57",
+        "value": "ZWL003721"
+    },
+    {
+        "label": "Delhi NCR : Moti Bagh, Delhi",
+        "value": "ZWL006396"
+    },
+    {
+        "label": "Delhi NCR : Patel Nagar, Delhi",
+        "value": "ZWL004535"
+    },
+    {
+        "label": "Delhi NCR : Greater Noida",
+        "value": "ZWL008554"
+    },
+    {
+        "label": "Delhi NCR : Karkardooma, Delhi",
+        "value": "ZWL004533"
+    },
+    {
+        "label": "Delhi NCR : Tigaon",
+        "value": "ZWL002179"
+    },
+    {
+        "label": "Delhi NCR : Sector 50 (Noida)",
+        "value": "ZWL007487"
+    },
+    {
+        "label": "Delhi NCR : Vasant Kunj, Delhi",
+        "value": "ZWL007120"
+    },
+    {
+        "label": "Delhi NCR : Dwarka, Delhi",
+        "value": "ZWL007486"
+    },
+    {
+        "label": "Delhi NCR : Sector 15",
+        "value": "ZWL006287"
+    },
+    {
+        "label": "Delhi NCR : Mayur Vihar Phase III",
+        "value": "ZWL002146"
+    },
+    {
+        "label": "Delhi NCR : Crossing Republik",
+        "value": "ZWL008405"
+    },
+    {
+        "label": "Delhi NCR : Sector 28",
+        "value": "ZWL004455"
+    },
+    {
+        "label": "Delhi NCR : Palam Vihar, Gurgaon",
+        "value": "ZWL005087"
+    },
+    {
+        "label": "Delhi NCR : Sector 63 (Noida)",
+        "value": "ZWL009648"
+    },
+    {
+        "label": "Delhi NCR : Raj Nagar, Ghaziabad",
+        "value": "ZWL008317"
+    },
+    {
+        "label": "Delhi NCR : Sector 128",
+        "value": "ZWL005878"
+    },
+    {
+        "label": "Delhi NCR : Sector 56, Gurgaon",
+        "value": "ZWL003241"
+    },
+    {
+        "label": "Delhi NCR : Indirapuram",
+        "value": "ZWL007224"
+    },
+    {
+        "label": "Delhi NCR : Malviya Nagar",
+        "value": "ZWL009834"
+    },
+    {
+        "label": "Delhi NCR : Sector 43, Gurgaon",
+        "value": "ZWL007284"
+    },
+    {
+        "label": "Delhi NCR : Sector 120 (Noida)",
+        "value": "ZWL006738"
+    },
+    {
+        "label": "Delhi NCR : Saket",
+        "value": "ZWL007329"
+    },
+    {
+        "label": "Delhi NCR : Sector 18 (Noida)",
+        "value": "ZWL001752"
+    },
+    {
+        "label": "Delhi NCR : Naraina",
+        "value": "ZWL007594"
+    },
+    {
+        "label": "Delhi NCR : Patparganj",
+        "value": "ZWL006116"
+    },
+    {
+        "label": "Delhi NCR : Ghitorni",
+        "value": "ZWL009925"
+    },
+    {
+        "label": "Delhi NCR : Faridabad Sector 1-11",
+        "value": "ZWL009335"
+    },
+    {
+        "label": "Delhi NCR : Sector 24",
+        "value": "ZWL009638"
+    },
+    {
+        "label": "Delhi NCR : Rajouri Garden",
+        "value": "ZWL005670"
+    },
+    {
+        "label": "Delhi NCR : Vishnu Garden",
+        "value": "ZWL003757"
+    },
+    {
+        "label": "Delhi NCR : Sector 48, Gurgaon",
+        "value": "ZWL003610"
+    },
+    {
+        "label": "Delhi NCR : Kirti Nagar",
+        "value": "ZWL005971"
+    },
+    {
+        "label": "Delhi NCR : Faridabad Sector 81-89",
+        "value": "ZWL003626"
+    },
+    {
+        "label": "Delhi NCR : GK I",
+        "value": "ZWL005876"
+    },
+    {
+        "label": "Delhi NCR : Mohan Estate",
+        "value": "ZWL006295"
+    },
+    {
+        "label": "Delhi NCR : Mukherjee Nagar",
+        "value": "ZWL007653"
+    },
+    {
+        "label": "Delhi NCR : Mehrauli",
+        "value": "ZWL006697"
+    },
+    {
+        "label": "Delhi NCR : Burari",
+        "value": "ZWL003259"
+    },
+    {
+        "label": "Delhi NCR : Gaur city, Ghaziabad",
+        "value": "ZWL004759"
+    },
+    {
+        "label": "Delhi NCR : GK II",
+        "value": "ZWL004477"
+    },
+    {
+        "label": "Delhi NCR : Rohini",
+        "value": "ZWL005077"
+    },
+    {
+        "label": "Delhi NCR : Rangpuri",
+        "value": "ZWL008191"
+    },
+    {
+        "label": "Delhi NCR : Sector 46",
+        "value": "ZWL006092"
+    },
+    {
+        "label": "Delhi NCR : Sector 62 (Noida)",
+        "value": "ZWL001549"
+    },
+    {
+        "label": "Delhi NCR : Shalimar Bagh",
+        "value": "ZWL001036"
+    },
+    {
+        "label": "Delhi NCR : Model Town",
+        "value": "ZWL006996"
+    },
+    {
+        "label": "Delhi NCR : Faridabad Sector 16-20",
+        "value": "ZWL007566"
+    },
+    {
+        "label": "Delhi NCR : Sector 2 (Noida)",
+        "value": "ZWL009852"
+    },
+    {
+        "label": "Delhi NCR : Govindpuram",
+        "value": "ZWL008648"
+    },
+    {
+        "label": "Delhi NCR : Gwal Pahari",
+        "value": "ZWL009728"
+    },
+    {
+        "label": "Delhi NCR : Nehru Nagar",
+        "value": "ZWL006868"
+    },
+    {
+        "label": "Delhi NCR : Chittaranjan Park",
+        "value": "ZWL002067"
+    },
+    {
+        "label": "Delhi NCR : IMT Manesar",
+        "value": "ZWL008791"
+    },
+    {
+        "label": "Delhi NCR : Sector 73 Z Kitchen",
+        "value": "ZWL003043"
+    },
+    {
+        "label": "Delhi NCR : Sector 51",
+        "value": "ZWL004159"
+    },
+    {
+        "label": "Delhi NCR : Ballabhgarh",
+        "value": "ZWL005960"
+    },
+    {
+        "label": "Delhi NCR : Nangloi",
+        "value": "ZWL009293"
+    },
+    {
+        "label": "Delhi NCR : Uttam Nagar",
+        "value": "ZWL001663"
+    },
+    {
+        "label": "Delhi NCR : Sector 47",
+        "value": "ZWL005762"
+    },
+    {
+        "label": "Delhi NCR : Paharganj",
+        "value": "ZWL005345"
+    },
+    {
+        "label": "Delhi NCR : Sector 25",
+        "value": "ZWL008225"
+    },
+    {
+        "label": "Delhi NCR : Pitampura",
+        "value": "ZWL001933"
+    },
+    {
+        "label": "Delhi NCR : Shahdara",
+        "value": "ZWL003591"
+    },
+    {
+        "label": "Delhi NCR : Sector 31",
+        "value": "ZWL007061"
+    },
+    {
+        "label": "Delhi NCR : Sector 23",
+        "value": "ZWL008476"
+    },
+    {
+        "label": "Delhi NCR : Sector 12 (Noida)",
+        "value": "ZWL009008"
+    },
+    {
+        "label": "Delhi NCR : Mayur Vihar Phase II",
+        "value": "ZWL005323"
+    },
+    {
+        "label": "Delhi NCR : Faridabad Sector 12-15",
+        "value": "ZWL001412"
+    },
+    {
+        "label": "Delhi NCR : DLF PHASE 1 (SECTOR 26)",
+        "value": "ZWL005925"
+    },
+    {
+        "label": "Delhi NCR : Laxmi Nagar",
+        "value": "ZWL008716"
+    },
+    {
+        "label": "Delhi NCR : Karol Bagh",
+        "value": "ZWL009339"
+    },
+    {
+        "label": "Delhi NCR : Chhatarpur",
+        "value": "ZWL009096"
+    },
+    {
+        "label": "Delhi NCR : Paschim Vihar",
+        "value": "ZWL006720"
+    },
+    {
+        "label": "Delhi NCR : Sector 1, Noida",
+        "value": "ZWL002908"
+    },
+    {
+        "label": "Delhi NCR : South Extension I",
+        "value": "ZWL001186"
+    },
+    {
+        "label": "Delhi NCR : Sector 18",
+        "value": "ZWL004789"
+    },
+    {
+        "label": "Delhi NCR : Kamla Nagar",
+        "value": "ZWL008978"
+    },
+    {
+        "label": "Delhi NCR : Janakpuri",
+        "value": "ZWL007903"
+    },
+    {
+        "label": "Delhi NCR : Vikaspuri",
+        "value": "ZWL008897"
+    },
+    {
+        "label": "Delhi NCR : Najafgarh",
+        "value": "ZWL007431"
+    },
+    {
+        "label": "Delhi NCR : Mayur Vihar Phase 1",
+        "value": "ZWL001112"
+    },
+    {
+        "label": "Delhi NCR : Sez Noida 1",
+        "value": "ZWL008649"
+    },
+    {
+        "label": "Delhi NCR : Gulavali, Noida",
+        "value": "ZWL006384"
+    },
+    {
+        "label": "Delhi NCR : Sector 14",
+        "value": "ZWL007840"
+    },
+    {
+        "label": "Delhi NCR : Sector 76(Noida)",
+        "value": "ZWL002072"
+    },
+    {
+        "label": "Delhi NCR : Green Park",
+        "value": "ZWL003077"
+    },
+    {
+        "label": "Delhi NCR : Munirka",
+        "value": "ZWL005395"
+    },
+    {
+        "label": "Delhi NCR : NEHRU PLACE",
+        "value": "ZWL005729"
+    },
+    {
+        "label": "Delhi NCR : Lajpat Nagar",
+        "value": "ZWL005736"
+    },
+    {
+        "label": "Delhi NCR : Sector 52 (Noida)",
+        "value": "ZWL007212"
+    },
+    {
+        "label": "Delhi NCR : Sector 100 (Noida)",
+        "value": "ZWL004803"
+    },
+    {
+        "label": "Delhi NCR : Sector 50",
+        "value": "ZWL003444"
+    },
+    {
+        "label": "Delhi NCR : Dilshad Garden",
+        "value": "ZWL008293"
+    },
+    {
+        "label": "Delhi NCR : Sector 29, Gurgaon",
+        "value": "ZWL007308"
+    },
+    {
+        "label": "Delhi NCR : SUSHANT LOK 1",
+        "value": "ZWL008219"
+    },
+    {
+        "label": "Delhi NCR : SAHIBABAD",
+        "value": "ZWL006234"
+    },
+    {
+        "label": "Delhi NCR : Sector 45 (Noida)",
+        "value": "ZWL007666"
+    },
+    {
+        "label": "Delhi NCR : Sector 84",
+        "value": "ZWL002490"
+    },
+    {
+        "label": "Delhi NCR : Sector 7, Gurgaon",
+        "value": "ZWL007138"
+    },
+    {
+        "label": "Delhi NCR : Sector 27",
+        "value": "ZWL009706"
+    },
+    {
+        "label": "Delhi NCR : Hauz Khas",
+        "value": "ZWL001267"
+    },
+    {
+        "label": "Delhi NCR : Jangpura",
+        "value": "ZWL003552"
+    },
+    {
+        "label": "Delhi NCR : Sector 52, Gurgaon",
+        "value": "ZWL008401"
+    },
+    {
+        "label": "Delhi NCR : Vaishali, Ghaziabad",
+        "value": "ZWL001758"
+    },
+    {
+        "label": "Kolkata : Shibpur",
+        "value": "ZWL003128"
+    },
+    {
+        "label": "Kolkata : Kalyani 1, Kolkata",
+        "value": "ZWL004322"
+    },
+    {
+        "label": "Kolkata : Bansdroni",
+        "value": "ZWL002495"
+    },
+    {
+        "label": "Kolkata : Bow Barracks",
+        "value": "ZWL009257"
+    },
+    {
+        "label": "Kolkata : Baranagar, Kolkata",
+        "value": "ZWL005435"
+    },
+    {
+        "label": "Kolkata : Sonarpur, Kolkata",
+        "value": "ZWL007041"
+    },
+    {
+        "label": "Kolkata : Ballygunge",
+        "value": "ZWL002918"
+    },
+    {
+        "label": "Kolkata : Sinthi, Kolkata",
+        "value": "ZWL003388"
+    },
+    {
+        "label": "Kolkata : Salt Lake 2",
+        "value": "ZWL008806"
+    },
+    {
+        "label": "Kolkata : Alipore",
+        "value": "ZWL008635"
+    },
+    {
+        "label": "Kolkata : Baguihati",
+        "value": "ZWL002312"
+    },
+    {
+        "label": "Kolkata : South Dum Dum",
+        "value": "ZWL001499"
+    },
+    {
+        "label": "Kolkata : Purba Barisha",
+        "value": "ZWL003315"
+    },
+    {
+        "label": "Kolkata : Jadavpur",
+        "value": "ZWL003794"
+    },
+    {
+        "label": "Kolkata : Tollygunge",
+        "value": "ZWL006574"
+    },
+    {
+        "label": "Kolkata : Shyam Bazar",
+        "value": "ZWL004138"
+    },
+    {
+        "label": "Kolkata : Behala",
+        "value": "ZWL009022"
+    },
+    {
+        "label": "Kolkata : Chandannagar, Kolkata",
+        "value": "ZWL003271"
+    },
+    {
+        "label": "Kolkata : Barrackpore",
+        "value": "ZWL003951"
+    },
+    {
+        "label": "Kolkata : East Kolkata Township",
+        "value": "ZWL003915"
+    },
+    {
+        "label": "Kolkata : Bhowanipore",
+        "value": "ZWL006750"
+    },
+    {
+        "label": "Kolkata : Elgin",
+        "value": "ZWL008828"
+    },
+    {
+        "label": "Kolkata : Howrah",
+        "value": "ZWL008426"
+    },
+    {
+        "label": "Kolkata : New Alipore",
+        "value": "ZWL007323"
+    },
+    {
+        "label": "Kolkata : Barasat",
+        "value": "ZWL006266"
+    },
+    {
+        "label": "Kolkata : New Town (kolkata)",
+        "value": "ZWL008393"
+    },
+    {
+        "label": "Kolkata : Uttarpara",
+        "value": "ZWL007966"
+    },
+    {
+        "label": "Kolkata : Santoshpur",
+        "value": "ZWL001039"
+    },
+    {
+        "label": "Kolkata : Liluah",
+        "value": "ZWL003882"
+    },
+    {
+        "label": "Kolkata : Rajarhat",
+        "value": "ZWL004925"
+    },
+    {
+        "label": "Kolkata : Park Street area",
+        "value": "ZWL005244"
+    },
+    {
+        "label": "Kolkata : Baghajatin Colony",
+        "value": "ZWL003687"
+    },
+    {
+        "label": "Kolkata : Shrirampur",
+        "value": "ZWL008120"
+    },
+    {
+        "label": "Kolkata : Chhota Jagulia",
+        "value": "ZWL007514"
+    },
+    {
+        "label": "Kolkata : Dum Dum",
+        "value": "ZWL003935"
+    },
+    {
+        "label": "Kolkata : Kestopur",
+        "value": "ZWL002931"
+    },
+    {
+        "label": "Kolkata : Sodepur",
+        "value": "ZWL006521"
+    },
+    {
+        "label": "Kolkata : Nimta",
+        "value": "ZWL005558"
+    },
+    {
+        "label": "Kolkata : Shapoorji",
+        "value": "ZWL005174"
+    },
+    {
+        "label": "Kolkata : Barabazar Market",
+        "value": "ZWL002488"
+    },
+    {
+        "label": "Kolkata : Salt Lake 1",
+        "value": "ZWL007934"
+    },
+    {
+        "label": "Kolkata : Tangra",
+        "value": "ZWL001584"
+    },
+    {
+        "label": "Kolkata : Gariahat",
+        "value": "ZWL005429"
+    },
+    {
+        "label": "Kolkata : Santragachi",
+        "value": "ZWL005121"
+    },
+    {
+        "label": "Kolkata : Garia",
+        "value": "ZWL007830"
+    },
+    {
+        "label": "Kolkata : Chinsurah, Kolkata",
+        "value": "ZWL008991"
+    },
+    {
+        "label": "Kolkata : Kankurgachi",
+        "value": "ZWL009194"
+    },
+    {
+        "label": "Kolkata : Kasba",
+        "value": "ZWL004722"
+    },
+    {
+        "label": "Mumbai : Mira Road East",
+        "value": "ZWL006536"
+    },
+    {
+        "label": "Mumbai : Kandivali West",
+        "value": "ZWL004934"
+    },
+    {
+        "label": "Mumbai : Boisar, Mumbai",
+        "value": "ZWL004821"
+    },
+    {
+        "label": "Mumbai : Bhiwandi",
+        "value": "ZWL007249"
+    },
+    {
+        "label": "Mumbai : Panvel",
+        "value": "ZWL001164"
+    },
+    {
+        "label": "Mumbai : Kopar Khairane (Navi Mumbai)",
+        "value": "ZWL009537"
+    },
+    {
+        "label": "Mumbai : Vashi",
+        "value": "ZWL007275"
+    },
+    {
+        "label": "Mumbai : Titwala, Mumbai",
+        "value": "ZWL002556"
+    },
+    {
+        "label": "Mumbai : Kandivali East",
+        "value": "ZWL006937"
+    },
+    {
+        "label": "Mumbai : Nalasopara",
+        "value": "ZWL008636"
+    },
+    {
+        "label": "Mumbai : Lower Parel",
+        "value": "ZWL003995"
+    },
+    {
+        "label": "Mumbai : Goregaon East",
+        "value": "ZWL006938"
+    },
+    {
+        "label": "Mumbai : Santacruz East",
+        "value": "ZWL008550"
+    },
+    {
+        "label": "Mumbai : Ghatkopar East, Mumbai",
+        "value": "ZWL004494"
+    },
+    {
+        "label": "Mumbai : Palava",
+        "value": "ZWL003708"
+    },
+    {
+        "label": "Mumbai : Malad West",
+        "value": "ZWL008711"
+    },
+    {
+        "label": "Mumbai : Borivali East",
+        "value": "ZWL005991"
+    },
+    {
+        "label": "Mumbai : Kalyan,West,Mumbai",
+        "value": "ZWL002865"
+    },
+    {
+        "label": "Mumbai : Santacruz West",
+        "value": "ZWL004749"
+    },
+    {
+        "label": "Mumbai : Badlapur, Mumbai",
+        "value": "ZWL001274"
+    },
+    {
+        "label": "Mumbai : Ambernath",
+        "value": "ZWL007699"
+    },
+    {
+        "label": "Mumbai : Marine lines",
+        "value": "ZWL001764"
+    },
+    {
+        "label": "Mumbai : Mulund West",
+        "value": "ZWL002921"
+    },
+    {
+        "label": "Mumbai : Airoli",
+        "value": "ZWL001410"
+    },
+    {
+        "label": "Mumbai : Kharghar (Navi Mumbai)",
+        "value": "ZWL009757"
+    },
+    {
+        "label": "Mumbai : Ulhasnagar (Mumbai)",
+        "value": "ZWL002059"
+    },
+    {
+        "label": "Mumbai : Ghatkopar West, Mumbai",
+        "value": "ZWL001058"
+    },
+    {
+        "label": "Mumbai : Bandra West",
+        "value": "ZWL006995"
+    },
+    {
+        "label": "Mumbai : Dadar West",
+        "value": "ZWL004692"
+    },
+    {
+        "label": "Mumbai : Andheri West",
+        "value": "ZWL007667"
+    },
+    {
+        "label": "Mumbai : Vile Parle West",
+        "value": "ZWL009338"
+    },
+    {
+        "label": "Mumbai : Byculla",
+        "value": "ZWL009167"
+    },
+    {
+        "label": "Mumbai : Vasai",
+        "value": "ZWL006032"
+    },
+    {
+        "label": "Mumbai : Kalyan,East (Mumbai)",
+        "value": "ZWL007397"
+    },
+    {
+        "label": "Mumbai : Ulwe, Mumbai",
+        "value": "ZWL009360"
+    },
+    {
+        "label": "Mumbai : Fort",
+        "value": "ZWL002205"
+    },
+    {
+        "label": "Mumbai : Andheri East",
+        "value": "ZWL008975"
+    },
+    {
+        "label": "Mumbai : Chembur",
+        "value": "ZWL009252"
+    },
+    {
+        "label": "Mumbai : Palghar, Mumbai",
+        "value": "ZWL002558"
+    },
+    {
+        "label": "Mumbai : Mumbra, Mumbai",
+        "value": "ZWL002742"
+    },
+    {
+        "label": "Mumbai : Mulund East",
+        "value": "ZWL004971"
+    },
+    {
+        "label": "Mumbai : Shirdhon, Mumbai",
+        "value": "ZWL008348"
+    },
+    {
+        "label": "Mumbai : Virar",
+        "value": "ZWL001344"
+    },
+    {
+        "label": "Mumbai : Tardeo",
+        "value": "ZWL007606"
+    },
+    {
+        "label": "Mumbai : Bandra East",
+        "value": "ZWL005697"
+    },
+    {
+        "label": "Mumbai : Thane West",
+        "value": "ZWL005442"
+    },
+    {
+        "label": "Mumbai : Kurla West",
+        "value": "ZWL004189"
+    },
+    {
+        "label": "Mumbai : Goregaon West",
+        "value": "ZWL005000"
+    },
+    {
+        "label": "Mumbai : Hiranandani Estate",
+        "value": "ZWL002056"
+    },
+    {
+        "label": "Mumbai : Dombivli",
+        "value": "ZWL009826"
+    },
+    {
+        "label": "Mumbai : Bhandup West",
+        "value": "ZWL007889"
+    },
+    {
+        "label": "Mumbai : Kamothe",
+        "value": "ZWL008977"
+    },
+    {
+        "label": "Mumbai : Powai, Mumbai",
+        "value": "ZWL006622"
+    },
+    {
+        "label": "Mumbai : Naupada",
+        "value": "ZWL002074"
+    },
+    {
+        "label": "Mumbai : Bhayandar West",
+        "value": "ZWL008874"
+    },
+    {
+        "label": "Mumbai : Vileparle East",
+        "value": "ZWL001334"
+    },
+    {
+        "label": "Mumbai : Sion",
+        "value": "ZWL008378"
+    },
+    {
+        "label": "Mumbai : Nerul (Navi Mumbai)",
+        "value": "ZWL007690"
+    },
+    {
+        "label": "Mumbai : Dahisar West",
+        "value": "ZWL007706"
+    },
+    {
+        "label": "Mumbai : Colaba",
+        "value": "ZWL005320"
+    },
+    {
+        "label": "Mumbai : Mahim",
+        "value": "ZWL006544"
+    },
+    {
+        "label": "Mumbai : Wadala",
+        "value": "ZWL002686"
+    },
+    {
+        "label": "Mumbai : Borivali West",
+        "value": "ZWL001089"
+    },
+    {
+        "label": "Mumbai : Palava Lakeshore,Mumbai",
+        "value": "ZWL008360"
+    },
+    {
+        "label": "Bengaluru : Banashankari",
+        "value": "ZWL003467"
+    },
+    {
+        "label": "Bengaluru : Rajarajeshwari Nagar",
+        "value": "ZWL004900"
+    },
+    {
+        "label": "Bengaluru : JP Nagar",
+        "value": "ZWL005530"
+    },
+    {
+        "label": "Bengaluru : Mahadevapura",
+        "value": "ZWL007643"
+    },
+    {
+        "label": "Bengaluru : Jalahalli",
+        "value": "ZWL003159"
+    },
+    {
+        "label": "Bengaluru : RT Nagar",
+        "value": "ZWL002736"
+    },
+    {
+        "label": "Bengaluru : KR Puram",
+        "value": "ZWL006369"
+    },
+    {
+        "label": "Bengaluru : Electronic City",
+        "value": "ZWL006274"
+    },
+    {
+        "label": "Bengaluru : Vijayanagar",
+        "value": "ZWL005375"
+    },
+    {
+        "label": "Bengaluru : Marathahalli",
+        "value": "ZWL008600"
+    },
+    {
+        "label": "Bengaluru : Sarjapur road",
+        "value": "ZWL002292"
+    },
+    {
+        "label": "Bengaluru : Brookefields",
+        "value": "ZWL004341"
+    },
+    {
+        "label": "Bengaluru : Whitefield",
+        "value": "ZWL007633"
+    },
+    {
+        "label": "Bengaluru : Nagavara",
+        "value": "ZWL009212"
+    },
+    {
+        "label": "Bengaluru : New BEL Road",
+        "value": "ZWL007628"
+    },
+    {
+        "label": "Bengaluru : Koramangala",
+        "value": "ZWL001156"
+    },
+    {
+        "label": "Bengaluru : Bannerghatta Road, Bangalore",
+        "value": "ZWL004924"
+    },
+    {
+        "label": "Bengaluru : Aavalahalli",
+        "value": "ZWL009229"
+    },
+    {
+        "label": "Bengaluru : BIAL Airport Road",
+        "value": "ZWL005576"
+    },
+    {
+        "label": "Bengaluru : Yelahanka",
+        "value": "ZWL006658"
+    },
+    {
+        "label": "Bengaluru : Kadugodi",
+        "value": "ZWL002882"
+    },
+    {
+        "label": "Bengaluru : Kammanahalli",
+        "value": "ZWL006631"
+    },
+    {
+        "label": "Bengaluru : HSR Layout",
+        "value": "ZWL001196"
+    },
+    {
+        "label": "Bengaluru : BTM Layout",
+        "value": "ZWL006600"
+    },
+    {
+        "label": "Bengaluru : Varthur",
+        "value": "ZWL006854"
+    },
+    {
+        "label": "Bengaluru : Indiranagar",
+        "value": "ZWL001273"
+    },
+    {
+        "label": "Bengaluru : Jayanagar",
+        "value": "ZWL008105"
+    },
+    {
+        "label": "Bengaluru : Sahakaranagar",
+        "value": "ZWL005206"
+    },
+    {
+        "label": "Bengaluru : Devanahalli, Bangalore",
+        "value": "ZWL008797"
+    },
+    {
+        "label": "Bengaluru : MG Road",
+        "value": "ZWL001962"
+    },
+    {
+        "label": "Bengaluru : Rajajinagar",
+        "value": "ZWL006844"
+    },
+    {
+        "label": "Bengaluru : Bellandur",
+        "value": "ZWL004164"
+    },
+    {
+        "label": "Pune : NIGDI(Pune)",
+        "value": "ZWL007698"
+    },
+    {
+        "label": "Pune : Bibvewadi (Pune)",
+        "value": "ZWL005773"
+    },
+    {
+        "label": "Pune : Nanded-Nahre",
+        "value": "ZWL009577"
+    },
+    {
+        "label": "Pune : Bhosari (Pune)",
+        "value": "ZWL002253"
+    },
+    {
+        "label": "Pune : Camp Area",
+        "value": "ZWL003498"
+    },
+    {
+        "label": "Pune : Magarpatta",
+        "value": "ZWL004311"
+    },
+    {
+        "label": "Pune : Pimpri",
+        "value": "ZWL007801"
+    },
+    {
+        "label": "Pune : Yerwada",
+        "value": "ZWL008134"
+    },
+    {
+        "label": "Pune : Kalyani Nagar (Pune)",
+        "value": "ZWL009625"
+    },
+    {
+        "label": "Pune : Sus, Pune",
+        "value": "ZWL001627"
+    },
+    {
+        "label": "Pune : Bavdhan",
+        "value": "ZWL006236"
+    },
+    {
+        "label": "Pune : Viman nagar",
+        "value": "ZWL006743"
+    },
+    {
+        "label": "Pune : Aundh (Pune)",
+        "value": "ZWL004927"
+    },
+    {
+        "label": "Pune : Katraj (Pune)",
+        "value": "ZWL008370"
+    },
+    {
+        "label": "Pune : Pimple Saudagar_Pune",
+        "value": "ZWL004523"
+    },
+    {
+        "label": "Pune : Dhanori",
+        "value": "ZWL001778"
+    },
+    {
+        "label": "Pune : Dehu Road",
+        "value": "ZWL003386"
+    },
+    {
+        "label": "Pune : Koregaon Park (Pune)",
+        "value": "ZWL009157"
+    },
+    {
+        "label": "Pune : Hinjewadi - Phase 2",
+        "value": "ZWL004962"
+    },
+    {
+        "label": "Pune : Wakad_Pune",
+        "value": "ZWL005340"
+    },
+    {
+        "label": "Pune : Manas Lake, Pune",
+        "value": "ZWL009671"
+    },
+    {
+        "label": "Pune : Sadashiv Peth",
+        "value": "ZWL008921"
+    },
+    {
+        "label": "Pune : Ghorpadi (Pune)",
+        "value": "ZWL008940"
+    },
+    {
+        "label": "Pune : Pashan (Pune)",
+        "value": "ZWL009874"
+    },
+    {
+        "label": "Pune : SP Infocity, Pune",
+        "value": "ZWL006660"
+    },
+    {
+        "label": "Pune : Manjri,Pune",
+        "value": "ZWL003813"
+    },
+    {
+        "label": "Pune : Khadki, Pune",
+        "value": "ZWL007471"
+    },
+    {
+        "label": "Pune : Kothrud (Pune)",
+        "value": "ZWL009602"
+    },
+    {
+        "label": "Pune : Sinhagad Road(Pune)",
+        "value": "ZWL002208"
+    },
+    {
+        "label": "Pune : New Sangvi, Pune",
+        "value": "ZWL007895"
+    },
+    {
+        "label": "Pune : Nimgaon, Pune",
+        "value": "ZWL003099"
+    },
+    {
+        "label": "Pune : Wagholi",
+        "value": "ZWL004575"
+    },
+    {
+        "label": "Pune : Keshavnagar, Pune",
+        "value": "ZWL004513"
+    },
+    {
+        "label": "Pune : Baner (Pune)",
+        "value": "ZWL008983"
+    },
+    {
+        "label": "Pune : Warje (Pune)",
+        "value": "ZWL005520"
+    },
+    {
+        "label": "Pune : Mundwa, Pune",
+        "value": "ZWL003300"
+    },
+    {
+        "label": "Pune : Chakan",
+        "value": "ZWL001963"
+    },
+    {
+        "label": "Pune : Shivaji Nagar (Pune)",
+        "value": "ZWL002422"
+    },
+    {
+        "label": "Pune : Yewalewadi, Pune",
+        "value": "ZWL005088"
+    },
+    {
+        "label": "Pune : Bopkhel, Pune",
+        "value": "ZWL003014"
+    },
+    {
+        "label": "Pune : Kharadi",
+        "value": "ZWL001472"
+    },
+    {
+        "label": "Pune : Talegaon Dabhade",
+        "value": "ZWL004339"
+    },
+    {
+        "label": "Pune : Hinjewadi - Phase 1",
+        "value": "ZWL003817"
+    },
+    {
+        "label": "Pune : Wanowrie-Kondhwa",
+        "value": "ZWL007925"
+    },
+    {
+        "label": "Hyderabad : Nagole",
+        "value": "ZWL003370"
+    },
+    {
+        "label": "Hyderabad : Attapur",
+        "value": "ZWL002088"
+    },
+    {
+        "label": "Hyderabad : Peerzadiguda",
+        "value": "ZWL006702"
+    },
+    {
+        "label": "Hyderabad : Begumpet",
+        "value": "ZWL008776"
+    },
+    {
+        "label": "Hyderabad : Suraram, Hyderabad",
+        "value": "ZWL003918"
+    },
+    {
+        "label": "Hyderabad : Banjara Hills",
+        "value": "ZWL004079"
+    },
+    {
+        "label": "Hyderabad : Alwal",
+        "value": "ZWL008309"
+    },
+    {
+        "label": "Hyderabad : Sainikpuri",
+        "value": "ZWL002433"
+    },
+    {
+        "label": "Hyderabad : Saroor Nagar",
+        "value": "ZWL007390"
+    },
+    {
+        "label": "Hyderabad : Karkhana",
+        "value": "ZWL004767"
+    },
+    {
+        "label": "Hyderabad : Kompally",
+        "value": "ZWL006016"
+    },
+    {
+        "label": "Hyderabad : Himayatnagar",
+        "value": "ZWL003283"
+    },
+    {
+        "label": "Hyderabad : Medchal Road",
+        "value": "ZWL007311"
+    },
+    {
+        "label": "Hyderabad : Kukatpally",
+        "value": "ZWL005919"
+    },
+    {
+        "label": "Hyderabad : Amberpet",
+        "value": "ZWL001822"
+    },
+    {
+        "label": "Hyderabad : Jeedimetla",
+        "value": "ZWL008208"
+    },
+    {
+        "label": "Hyderabad : Gachibowli",
+        "value": "ZWL001362"
+    },
+    {
+        "label": "Hyderabad : LB Nagar",
+        "value": "ZWL002162"
+    },
+    {
+        "label": "Hyderabad : Dilsukhnagar",
+        "value": "ZWL009712"
+    },
+    {
+        "label": "Hyderabad : Masab Tank",
+        "value": "ZWL005963"
+    },
+    {
+        "label": "Hyderabad : Bachupally",
+        "value": "ZWL008297"
+    },
+    {
+        "label": "Hyderabad : Manikonda",
+        "value": "ZWL005424"
+    },
+    {
+        "label": "Hyderabad : Shamshabad",
+        "value": "ZWL008585"
+    },
+    {
+        "label": "Hyderabad : Miyapur",
+        "value": "ZWL008599"
+    },
+    {
+        "label": "Hyderabad : Hayath Nagar, Hyderabad",
+        "value": "ZWL006535"
+    },
+    {
+        "label": "Hyderabad : Sangareddy, Hyderabad",
+        "value": "ZWL006545"
+    },
+    {
+        "label": "Hyderabad : JNTU",
+        "value": "ZWL009719"
+    },
+    {
+        "label": "Hyderabad : Serilingampally",
+        "value": "ZWL008890"
+    },
+    {
+        "label": "Hyderabad : Nizampet",
+        "value": "ZWL007119"
+    },
+    {
+        "label": "Hyderabad : Q City, Hyderabad",
+        "value": "ZWL004747"
+    },
+    {
+        "label": "Hyderabad : Madhapur",
+        "value": "ZWL004802"
+    },
+    {
+        "label": "Hyderabad : Narayanguda",
+        "value": "ZWL004665"
+    },
+    {
+        "label": "Hyderabad : ECIL",
+        "value": "ZWL005999"
+    },
+    {
+        "label": "Hyderabad : Toli Chowki",
+        "value": "ZWL003360"
+    },
+    {
+        "label": "Hyderabad : Kondapur",
+        "value": "ZWL007187"
+    },
+    {
+        "label": "Hyderabad : Charminar",
+        "value": "ZWL007344"
+    },
+    {
+        "label": "Hyderabad : Sivarampalli",
+        "value": "ZWL008438"
+    },
+    {
+        "label": "Hyderabad : Tarnaka",
+        "value": "ZWL005494"
+    },
+    {
+        "label": "Hyderabad : Moosapet",
+        "value": "ZWL009519"
+    },
+    {
+        "label": "Hyderabad : Patancheru, Hyderabad",
+        "value": "ZWL001687"
+    },
+    {
+        "label": "Hyderabad : Vanasthali Puram",
+        "value": "ZWL005569"
+    },
+    {
+        "label": "Hyderabad : Ameerpet",
+        "value": "ZWL003027"
+    },
+    {
+        "label": "Hyderabad : Uppal",
+        "value": "ZWL001337"
+    },
+    {
+        "label": "Hyderabad : Malakpet",
+        "value": "ZWL001579"
+    },
+    {
+        "label": "Hyderabad : Hafiz Baba Nagar",
+        "value": "ZWL006699"
+    },
+    {
+        "label": "Hyderabad : Mokila, Hyderabad",
+        "value": "ZWL008512"
+    },
+    {
+        "label": "Chennai : Potheri",
+        "value": "ZWL006789"
+    },
+    {
+        "label": "Chennai : Pallavaram",
+        "value": "ZWL004297"
+    },
+    {
+        "label": "Chennai : Nungambakkam",
+        "value": "ZWL005190"
+    },
+    {
+        "label": "Chennai : Anna Nagar, Chennai",
+        "value": "ZWL003967"
+    },
+    {
+        "label": "Chennai : Perambur",
+        "value": "ZWL008996"
+    },
+    {
+        "label": "Chennai : Mogappair, Chennai",
+        "value": "ZWL005857"
+    },
+    {
+        "label": "Chennai : Royapuram",
+        "value": "ZWL006232"
+    },
+    {
+        "label": "Chennai : Mugalivakkam",
+        "value": "ZWL008548"
+    },
+    {
+        "label": "Chennai : Porur",
+        "value": "ZWL006053"
+    },
+    {
+        "label": "Chennai : Redhills",
+        "value": "ZWL001398"
+    },
+    {
+        "label": "Chennai : Tambaram",
+        "value": "ZWL001701"
+    },
+    {
+        "label": "Chennai : Avadi",
+        "value": "ZWL008876"
+    },
+    {
+        "label": "Chennai : Kilpauk",
+        "value": "ZWL003387"
+    },
+    {
+        "label": "Chennai : Ashok Nagar (CHENNAI)",
+        "value": "ZWL007059"
+    },
+    {
+        "label": "Chennai : Adyar",
+        "value": "ZWL006520"
+    },
+    {
+        "label": "Chennai : Alwarpet",
+        "value": "ZWL001210"
+    },
+    {
+        "label": "Chennai : Selaiyur",
+        "value": "ZWL007171"
+    },
+    {
+        "label": "Chennai : Thandalam, Chennai",
+        "value": "ZWL006329"
+    },
+    {
+        "label": "Chennai : Sholinganallur",
+        "value": "ZWL004233"
+    },
+    {
+        "label": "Chennai : Ambattur",
+        "value": "ZWL007209"
+    },
+    {
+        "label": "Chennai : Medavakkam",
+        "value": "ZWL003452"
+    },
+    {
+        "label": "Chennai : Poonamallee",
+        "value": "ZWL007176"
+    },
+    {
+        "label": "Chennai : Minjur, Chennai",
+        "value": "ZWL009897"
+    },
+    {
+        "label": "Chennai : Urapakkam",
+        "value": "ZWL004882"
+    },
+    {
+        "label": "Chennai : Velachery",
+        "value": "ZWL006156"
+    },
+    {
+        "label": "Chennai : Navallur",
+        "value": "ZWL001141"
+    },
+    {
+        "label": "Chennai : Vadapalani",
+        "value": "ZWL004431"
+    },
+    {
+        "label": "Chennai : T Nagar",
+        "value": "ZWL001516"
+    },
+    {
+        "label": "Lucknow : Hazratganj",
+        "value": "ZWL003425"
+    },
+    {
+        "label": "Lucknow : Aminabad",
+        "value": "ZWL006490"
+    },
+    {
+        "label": "Lucknow : Chowk",
+        "value": "ZWL009091"
+    },
+    {
+        "label": "Lucknow : Telibagh, Lucknow",
+        "value": "ZWL003030"
+    },
+    {
+        "label": "Lucknow : Husainganj",
+        "value": "ZWL004978"
+    },
+    {
+        "label": "Lucknow : Jankipuram",
+        "value": "ZWL009177"
+    },
+    {
+        "label": "Lucknow : Arjunganj",
+        "value": "ZWL004436"
+    },
+    {
+        "label": "Lucknow : Chinhat, Lucknow",
+        "value": "ZWL005470"
+    },
+    {
+        "label": "Lucknow : Mahanagar",
+        "value": "ZWL001500"
+    },
+    {
+        "label": "Lucknow : Ashiyana",
+        "value": "ZWL003371"
+    },
+    {
+        "label": "Lucknow : Indira Nagar, Lucknow",
+        "value": "ZWL003635"
+    },
+    {
+        "label": "Lucknow : Vasant Kunj, Lucknow",
+        "value": "ZWL003320"
+    },
+    {
+        "label": "Lucknow : Rajajipuram",
+        "value": "ZWL009682"
+    },
+    {
+        "label": "Lucknow : Gomti Nagar",
+        "value": "ZWL002273"
+    },
+    {
+        "label": "Lucknow : Alambagh",
+        "value": "ZWL002331"
+    },
+    {
+        "label": "Lucknow : Aliganj, Lucknow",
+        "value": "ZWL007731"
+    },
+    {
+        "label": "Lucknow : Kalyanpur",
+        "value": "ZWL007011"
+    },
+    {
+        "label": "Kochi : Eroor",
+        "value": "ZWL003768"
+    },
+    {
+        "label": "Kochi : Kakkanad",
+        "value": "ZWL005555"
+    },
+    {
+        "label": "Kochi : Nedumbassery,Kochi",
+        "value": "ZWL002986"
+    },
+    {
+        "label": "Kochi : North Paravur, Kochi",
+        "value": "ZWL004273"
+    },
+    {
+        "label": "Kochi : Aluva, Kochi",
+        "value": "ZWL005425"
+    },
+    {
+        "label": "Kochi : Ambalamugal",
+        "value": "ZWL004691"
+    },
+    {
+        "label": "Kochi : Kalamassery",
+        "value": "ZWL001981"
+    },
+    {
+        "label": "Kochi : Kaloor",
+        "value": "ZWL003786"
+    },
+    {
+        "label": "Kochi : Perumbavoor,Kochi",
+        "value": "ZWL009487"
+    },
+    {
+        "label": "Kochi : Thiruvankulam",
+        "value": "ZWL007216"
+    },
+    {
+        "label": "Kochi : Vypin, Kochi",
+        "value": "ZWL002327"
+    },
+    {
+        "label": "Kochi : Ernakulam",
+        "value": "ZWL006873"
+    },
+    {
+        "label": "Kochi : Fort Kochi",
+        "value": "ZWL004591"
+    },
+    {
+        "label": "Jaipur : Mansarovar-2",
+        "value": "ZWL005082"
+    },
+    {
+        "label": "Jaipur : Tonk road 2",
+        "value": "ZWL003863"
+    },
+    {
+        "label": "Jaipur : Jagatpura",
+        "value": "ZWL009286"
+    },
+    {
+        "label": "Jaipur : Shyam Nagar",
+        "value": "ZWL009458"
+    },
+    {
+        "label": "Jaipur : C Scheme",
+        "value": "ZWL003704"
+    },
+    {
+        "label": "Jaipur : Lal Kothi",
+        "value": "ZWL003606"
+    },
+    {
+        "label": "Jaipur : Pink City",
+        "value": "ZWL009569"
+    },
+    {
+        "label": "Jaipur : Vaishali Nagar",
+        "value": "ZWL001750"
+    },
+    {
+        "label": "Jaipur : Malviya Nagar",
+        "value": "ZWL002751"
+    },
+    {
+        "label": "Jaipur : Sodala",
+        "value": "ZWL005080"
+    },
+    {
+        "label": "Jaipur : Vidhyadhar Nagar",
+        "value": "ZWL008680"
+    },
+    {
+        "label": "Jaipur : Raja Park",
+        "value": "ZWL008249"
+    },
+    {
+        "label": "Jaipur : Shastri Nagar",
+        "value": "ZWL008915"
+    },
+    {
+        "label": "Jaipur : Pratap Nagar",
+        "value": "ZWL006372"
+    },
+    {
+        "label": "Ahmedabad : Paldi",
+        "value": "ZWL003133"
+    },
+    {
+        "label": "Ahmedabad : Shahibag",
+        "value": "ZWL002302"
+    },
+    {
+        "label": "Ahmedabad : Navrangpura",
+        "value": "ZWL003747"
+    },
+    {
+        "label": "Ahmedabad : Chandkheda",
+        "value": "ZWL002503"
+    },
+    {
+        "label": "Ahmedabad : Science-City Sola",
+        "value": "ZWL005979"
+    },
+    {
+        "label": "Ahmedabad : Sector 16, Gandhinagar",
+        "value": "ZWL005987"
+    },
+    {
+        "label": "Ahmedabad : Vastrapur",
+        "value": "ZWL001959"
+    },
+    {
+        "label": "Ahmedabad : Prahlad Nagar",
+        "value": "ZWL007404"
+    },
+    {
+        "label": "Ahmedabad : Nikol",
+        "value": "ZWL001898"
+    },
+    {
+        "label": "Ahmedabad : Infocity, Gandhinagar",
+        "value": "ZWL002250"
+    },
+    {
+        "label": "Ahmedabad : Naranpura",
+        "value": "ZWL004415"
+    },
+    {
+        "label": "Ahmedabad : Bopal",
+        "value": "ZWL006288"
+    },
+    {
+        "label": "Ahmedabad : Maninagar",
+        "value": "ZWL009182"
+    },
+    {
+        "label": "Ahmedabad : Bodakdev",
+        "value": "ZWL009990"
+    },
+    {
+        "label": "Ahmedabad : Gota",
+        "value": "ZWL003455"
+    },
+    {
+        "label": "Chandigarh : Sector 15 (Chandigarh)",
+        "value": "ZWL007561"
+    },
+    {
+        "label": "Chandigarh : Sector 8 (Chandigarh)",
+        "value": "ZWL006687"
+    },
+    {
+        "label": "Chandigarh : Manimajra (Chandigarh)",
+        "value": "ZWL001934"
+    },
+    {
+        "label": "Chandigarh : Industrial Area Phase I (Chandigarh)",
+        "value": "ZWL003936"
+    },
+    {
+        "label": "Chandigarh : Sector 59 (Chandigarh)",
+        "value": "ZWL004716"
+    },
+    {
+        "label": "Chandigarh : Sector 20, Panchkula",
+        "value": "ZWL002303"
+    },
+    {
+        "label": "Chandigarh : Sector 8/9 nd  Panchkula",
+        "value": "ZWL009521"
+    },
+    {
+        "label": "Chandigarh : Sector 28 (Chandigarh)",
+        "value": "ZWL006817"
+    },
+    {
+        "label": "Chandigarh : Phase 10 Mohali",
+        "value": "ZWL003496"
+    },
+    {
+        "label": "Chandigarh : Gillco, Chandigarh",
+        "value": "ZWL009894"
+    },
+    {
+        "label": "Chandigarh : Sector 46 (Chandigarh)",
+        "value": "ZWL004101"
+    },
+    {
+        "label": "Chandigarh : Sector 70 (Chandigarh)",
+        "value": "ZWL003262"
+    },
+    {
+        "label": "Chandigarh : VIP Road, Zirakpur",
+        "value": "ZWL009430"
+    },
+    {
+        "label": "Chandigarh : VR Mall",
+        "value": "ZWL004196"
+    },
+    {
+        "label": "Chandigarh : Sector 35 (Chandigarh)",
+        "value": "ZWL003093"
+    },
+    {
+        "label": "Chandigarh : Sector 22 (Chandigarh)",
+        "value": "ZWL009406"
+    },
+    {
+        "label": "Goa : Verna, Goa",
+        "value": "ZWL002150"
+    },
+    {
+        "label": "Goa : Mapusa, Goa",
+        "value": "ZWL008519"
+    },
+    {
+        "label": "Goa : Calangute, Goa",
+        "value": "ZWL004452"
+    },
+    {
+        "label": "Goa : Majorda, Goa",
+        "value": "ZWL006556"
+    },
+    {
+        "label": "Goa : Upper panaji, Goa",
+        "value": "ZWL002137"
+    },
+    {
+        "label": "Goa : Ponda, Goa",
+        "value": "ZWL005093"
+    },
+    {
+        "label": "Goa : Margao, Goa",
+        "value": "ZWL002142"
+    },
+    {
+        "label": "Goa : Vasco, Goa",
+        "value": "ZWL004621"
+    },
+    {
+        "label": "Goa : Morjim, Goa",
+        "value": "ZWL006403"
+    },
+    {
+        "label": "Goa : Porvorim, Goa",
+        "value": "ZWL005568"
+    },
+    {
+        "label": "Ludhiana : Sector 32, Ludhiana",
+        "value": "ZWL009021"
+    },
+    {
+        "label": "Ludhiana : Civil Lines, Ludhiana",
+        "value": "ZWL006208"
+    },
+    {
+        "label": "Ludhiana : Sarabha Nagar, Ludhiana",
+        "value": "ZWL006788"
+    },
+    {
+        "label": "Ludhiana : BRS Nagar, Ludhiana",
+        "value": "ZWL005256"
+    },
+    {
+        "label": "Ludhiana : Model Town, Ludhiana",
+        "value": "ZWL001163"
+    },
+    {
+        "label": "Ludhiana : Ganesh Nagar, Ludhiana",
+        "value": "ZWL003304"
+    },
+    {
+        "label": "Ludhiana : Dugri,Ludhiana",
+        "value": "ZWL003119"
+    },
+    {
+        "label": "Guwahati : Pathar Quarry, Guwahati",
+        "value": "ZWL006981"
+    },
+    {
+        "label": "Guwahati : Basistha-Lokhra, Guwahati",
+        "value": "ZWL006537"
+    },
+    {
+        "label": "Guwahati : North Guwahati, Guwahati",
+        "value": "ZWL009407"
+    },
+    {
+        "label": "Guwahati : Dharapur, Guwahati",
+        "value": "ZWL004763"
+    },
+    {
+        "label": "Guwahati : Lal Ganesh - Kahilipara, Guwahati",
+        "value": "ZWL007095"
+    },
+    {
+        "label": "Guwahati : Paltan-Bazar, Guwahati",
+        "value": "ZWL002105"
+    },
+    {
+        "label": "Guwahati : Azara, Guwahati",
+        "value": "ZWL003362"
+    },
+    {
+        "label": "Guwahati : Changsari, Guwahati",
+        "value": "ZWL002491"
+    },
+    {
+        "label": "Guwahati : Maligaon - Jalukbari, Guwahati",
+        "value": "ZWL005319"
+    },
+    {
+        "label": "Guwahati : Zoo Tiniali - Christian basti",
+        "value": "ZWL005708"
+    },
+    {
+        "label": "Amritsar : Himatpura, Amritsar",
+        "value": "ZWL001780"
+    },
+    {
+        "label": "Amritsar : Rasulpur, Amritsar",
+        "value": "ZWL008281"
+    },
+    {
+        "label": "Amritsar : Ranjit Avenue, Amritsar",
+        "value": "ZWL004590"
+    },
+    {
+        "label": "Amritsar : White Avenue, Amritsar",
+        "value": "ZWL002073"
+    },
+    {
+        "label": "Amritsar : Chheharta, Amritsar",
+        "value": "ZWL005826"
+    },
+    {
+        "label": "Amritsar : Hall Bazar, Amritsar",
+        "value": "ZWL007456"
+    },
+    {
+        "label": "Bhopal : Ashoka Garden, Bhopal",
+        "value": "ZWL008755"
+    },
+    {
+        "label": "Bhopal : Shahpura,Bhopal",
+        "value": "ZWL009428"
+    },
+    {
+        "label": "Bhopal : Airport Area, Bhopal",
+        "value": "ZWL006900"
+    },
+    {
+        "label": "Bhopal : TT Nagar, Bhopal",
+        "value": "ZWL002615"
+    },
+    {
+        "label": "Bhopal : BHEL, Bhopal",
+        "value": "ZWL003463"
+    },
+    {
+        "label": "Bhopal : MP Nagar,Bhopal",
+        "value": "ZWL002872"
+    },
+    {
+        "label": "Bhopal : Hoshangabad Road, Bhopal",
+        "value": "ZWL005836"
+    },
+    {
+        "label": "Bhopal : People's Mall, Bhopal",
+        "value": "ZWL003417"
+    },
+    {
+        "label": "Visakhapatnam : NAD, Vizag",
+        "value": "ZWL001466"
+    },
+    {
+        "label": "Visakhapatnam : Gajuwaka",
+        "value": "ZWL003024"
+    },
+    {
+        "label": "Visakhapatnam : Dwaraka Nagar",
+        "value": "ZWL004755"
+    },
+    {
+        "label": "Visakhapatnam : Madhurawada",
+        "value": "ZWL009959"
+    },
+    {
+        "label": "Bhubaneswar : Madhusudan Nagar, Bhubaneswar",
+        "value": "ZWL007491"
+    },
+    {
+        "label": "Bhubaneswar : Kalinga Nagar, Bhubneshwar",
+        "value": "ZWL003084"
+    },
+    {
+        "label": "Bhubaneswar : Nayapalli, Bhubneshwar",
+        "value": "ZWL003270"
+    },
+    {
+        "label": "Bhubaneswar : Sahid Nagar, Bhubaneshwar",
+        "value": "ZWL007379"
+    },
+    {
+        "label": "Bhubaneswar : Lakshmi Sagar, Bhubneshwar",
+        "value": "ZWL001823"
+    },
+    {
+        "label": "Bhubaneswar : Khandagiri, Bhubneshwar",
+        "value": "ZWL004098"
+    },
+    {
+        "label": "Bhubaneswar : Jagmohan Nagar, Bhubaneswar",
+        "value": "ZWL008906"
+    },
+    {
+        "label": "Bhubaneswar : Kharabela Nagar, Bhubaneswar",
+        "value": "ZWL002821"
+    },
+    {
+        "label": "Bhubaneswar : Chandrasekharpur, Bhubaneswar",
+        "value": "ZWL009572"
+    },
+    {
+        "label": "Bhubaneswar : Patia, Bhubneshwar",
+        "value": "ZWL005652"
+    },
+    {
+        "label": "Coimbatore : Gandhipuram, Coimbatore",
+        "value": "ZWL003661"
+    },
+    {
+        "label": "Coimbatore : Vadavalli",
+        "value": "ZWL005742"
+    },
+    {
+        "label": "Coimbatore : RS Puram, Coimbatore",
+        "value": "ZWL008653"
+    },
+    {
+        "label": "Coimbatore : Racecourse, Coimbatore",
+        "value": "ZWL002703"
+    },
+    {
+        "label": "Coimbatore : Saibaba Colony, Coimbatore",
+        "value": "ZWL009668"
+    },
+    {
+        "label": "Coimbatore : Peelamedu, Coimbatore",
+        "value": "ZWL007527"
+    },
+    {
+        "label": "Coimbatore : Podanur, Coimbatore",
+        "value": "ZWL005468"
+    },
+    {
+        "label": "Coimbatore : Kunniamuthur, Coimbatore",
+        "value": "ZWL004408"
+    },
+    {
+        "label": "Coimbatore : Ondipudur, Coimbatore",
+        "value": "ZWL008265"
+    },
+    {
+        "label": "Coimbatore : Koundampalayam",
+        "value": "ZWL007600"
+    },
+    {
+        "label": "Coimbatore : Saravanampatty",
+        "value": "ZWL002147"
+    },
+    {
+        "label": "Coimbatore : Ganapathypudur, Coimbatore",
+        "value": "ZWL009595"
+    },
+    {
+        "label": "Coimbatore : Sitra, and Singanallur, Coimbatore",
+        "value": "ZWL001279"
+    },
+    {
+        "label": "Mangalore : South Mangalore",
+        "value": "ZWL006449"
+    },
+    {
+        "label": "Mangalore : Thokkattu, Mangalore",
+        "value": "ZWL009478"
+    },
+    {
+        "label": "Vadodara : Waghodia",
+        "value": "ZWL002354"
+    },
+    {
+        "label": "Vadodara : Fatehgunj",
+        "value": "ZWL004097"
+    },
+    {
+        "label": "Vadodara : Nizampura",
+        "value": "ZWL009713"
+    },
+    {
+        "label": "Vadodara : Diwalipura",
+        "value": "ZWL008938"
+    },
+    {
+        "label": "Vadodara : Akota",
+        "value": "ZWL004439"
+    },
+    {
+        "label": "Vadodara : Manjalpur, Vadodara",
+        "value": "ZWL002446"
+    },
+    {
+        "label": "Vadodara : Shubhanpura",
+        "value": "ZWL008232"
+    },
+    {
+        "label": "Vadodara : Alkapuri",
+        "value": "ZWL002475"
+    },
+    {
+        "label": "Nagpur : Pratap Nagar",
+        "value": "ZWL005549"
+    },
+    {
+        "label": "Nagpur : Sadar",
+        "value": "ZWL001438"
+    },
+    {
+        "label": "Nagpur : Kharabi, Nagpur",
+        "value": "ZWL006432"
+    },
+    {
+        "label": "Nagpur : Hanuman Nagar",
+        "value": "ZWL009782"
+    },
+    {
+        "label": "Nagpur : Dharampeth",
+        "value": "ZWL008282"
+    },
+    {
+        "label": "Nagpur : Manish Nagar",
+        "value": "ZWL001041"
+    },
+    {
+        "label": "Nagpur : Ayodhya Nagar, Nagpur",
+        "value": "ZWL007188"
+    },
+    {
+        "label": "Nagpur : Gandhibagh",
+        "value": "ZWL003633"
+    },
+    {
+        "label": "Mysore : Central Mysore",
+        "value": "ZWL002458"
+    },
+    {
+        "label": "Surat : Udhna, Surat",
+        "value": "ZWL005095"
+    },
+    {
+        "label": "Surat : City Light, Surat",
+        "value": "ZWL002155"
+    },
+    {
+        "label": "Surat : Athwa",
+        "value": "ZWL007951"
+    },
+    {
+        "label": "Surat : Vesu, Surat",
+        "value": "ZWL006000"
+    },
+    {
+        "label": "Surat : Adajan, Surat",
+        "value": "ZWL008198"
+    },
+    {
+        "label": "Surat : Varaccha, Surat",
+        "value": "ZWL002771"
+    },
+    {
+        "label": "Surat : New Textile Market, Surat",
+        "value": "ZWL005626"
+    },
+    {
+        "label": "Surat : Katargam, Surat",
+        "value": "ZWL005423"
+    },
+    {
+        "label": "Trivandrum : Kazhakoottam, Thiruvananthapuram",
+        "value": "ZWL009343"
+    },
+    {
+        "label": "Trivandrum : Tvm Central",
+        "value": "ZWL007746"
+    },
+    {
+        "label": "Trivandrum : Nemom, Thiruvananthapuram",
+        "value": "ZWL002223"
+    },
+    {
+        "label": "Vijayawada : Governorpet, Vijayawada",
+        "value": "ZWL005308"
+    },
+    {
+        "label": "Vijayawada : Gunadala, Vijayawada",
+        "value": "ZWL004428"
+    },
+    {
+        "label": "Vijayawada : Gollapudi, Vijayawada",
+        "value": "ZWL002106"
+    },
+    {
+        "label": "Vijayawada : Auto Nagar, Vijayawada",
+        "value": "ZWL005858"
+    },
+    {
+        "label": "Vijayawada : Labbipet, Vijayawada",
+        "value": "ZWL003905"
+    },
+    {
+        "label": "Jalandhar : Shastri Nagar, Jalandhar",
+        "value": "ZWL009921"
+    },
+    {
+        "label": "Jalandhar : Gurdev Nagar, Jalandhar",
+        "value": "ZWL002344"
+    },
+    {
+        "label": "Jalandhar : Paragpur, Jalandhar",
+        "value": "ZWL001077"
+    },
+    {
+        "label": "Jalandhar : Model Town, Jalandhar",
+        "value": "ZWL005408"
+    },
+    {
+        "label": "Jalandhar : Basti Nau, Jalandhar",
+        "value": "ZWL001624"
+    },
+    {
+        "label": "Jalandhar : Rama Mandi, Jalandhar",
+        "value": "ZWL004713"
+    },
+    {
+        "label": "Jammu : Greater Kailash, Jammu",
+        "value": "ZWL007457"
+    },
+    {
+        "label": "Jammu : Barnai, Jammu",
+        "value": "ZWL005892"
+    },
+    {
+        "label": "Jammu : Gandhi Nagar, Jammu",
+        "value": "ZWL008753"
+    },
+    {
+        "label": "Jammu : OLD JAMMU, Jammu",
+        "value": "ZWL008047"
+    },
+    {
+        "label": "Jammu : Channi Himmat, Jammu",
+        "value": "ZWL002687"
+    },
+    {
+        "label": "Raipur : Shankar Nagar, Raipur",
+        "value": "ZWL003195"
+    },
+    {
+        "label": "Raipur : Purena, Raipur",
+        "value": "ZWL009896"
+    },
+    {
+        "label": "Raipur : Mowa, Raipur",
+        "value": "ZWL001038"
+    },
+    {
+        "label": "Raipur : Mahaveer Nagar",
+        "value": "ZWL008872"
+    },
+    {
+        "label": "Raipur : Samta Colony, Raipur",
+        "value": "ZWL004310"
+    },
+    {
+        "label": "Raipur : Civil Lines, Raipur",
+        "value": "ZWL006651"
+    },
+    {
+        "label": "Raipur : Devendra Nagar",
+        "value": "ZWL008695"
+    },
+    {
+        "label": "Raipur : Moudhapara, Raipur",
+        "value": "ZWL008436"
+    }
+]
